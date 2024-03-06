@@ -12,15 +12,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - See hover and focus states for interactive elements
  
   - 
-  - [Screenshot](#screenshot)
-  - ![Screenshot 2024-03-06 at 11-50-30 Frontend Mentor Product preview card component](https://github.com/Sooma8/product-preview-card- 
-    component/assets/91131370/8b0a123d-aa1e-4341-9444-9bb847995120)
-
+  - [Screenshot]("C:\Users\User\Downloads\Screenshot Frontend Mentor Product preview card component.png")
   - 
+
+
   - [Links](#links)
   - -  [solution](https://github.com/Sooma8/product-preview-card-component)
   - -  [live](https://product-previewcard-solution.netlify.app/)
-    -  
+    
 - [My process](#my-process)
   - [Built with](#built-with)
   - 
@@ -33,4 +32,3 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 - - Frontend Mentor - [@Sooma8](https://www.frontendmentor.io/profile/Sooma8)
-  - 
