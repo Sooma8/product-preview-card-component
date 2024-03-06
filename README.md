@@ -12,7 +12,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - See hover and focus states for interactive elements
  
   - 
-  - [Screenshot]("C:\Users\User\Downloads\Screenshot Frontend Mentor Product preview card component.png")
+  - [Screenshot]
+  - (![Uploading Screenshot Frontend Mentor Product preview card component.png…]()
+)
   - 
 
 
